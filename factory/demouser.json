@@ -1,0 +1,9 @@
+{
+	"name": "demouser",
+	"location": "australiaeast",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "79cf2240-621f-4898-aad8-4844861430bf",
+		"tenantId": "43ec486c-6703-4541-8c90-58d904f13dc3"
+	}
+}
